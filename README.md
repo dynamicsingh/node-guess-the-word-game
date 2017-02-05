@@ -1,8 +1,6 @@
 # node-guess-the-word-game
 
-## wonder-the-word-game
-
-I took every english word (around 200k words) and built a game using NodeJS.
+I took almost every english word (around 200k words) and built a game using NodeJS.
 
 ##How to Use
 
